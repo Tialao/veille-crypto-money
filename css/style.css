@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: auto;
+}
+#th{
+    width: 100%;
+    height: auto;
+    padding: 10px 5px;
+}
+
+#theme{
+    text-align: center;
+    color:red;
+}
+
+#clear{
+    height: 50px;
+    width: 100%;
+}
+
+
+.intro{
+    width: 100%;
+    height: auto;
+    background-color: #f39c12;
+    text-align: justify;
+    padding: 10px;
+}
+
+b{
+    color: white
+}
